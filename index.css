@@ -37,3 +37,17 @@ header{
     justify-self: center;
     padding: 10px;
 }
+
+.mission-container{
+    background-image: url("./images/img-mission-background.jpeg") !important;
+    background-repeat: no-repeat;
+    margin: auto;
+    height: 700px;
+    display: inline-flex;
+}
+
+.mission-text{
+    align-self: center;
+    width: 1200px;
+    background-color: black;
+}
