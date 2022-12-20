@@ -51,3 +51,32 @@ header{
     width: 1200px;
     background-color: black;
 }
+
+.featured-tea-container{
+    width: 1000px;
+    margin: 4rem auto;
+}
+
+.featured-tea-container h4{
+    margin-top:0;
+}
+
+.featured-dashboard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flex-element{
+    margin: 0 10px;
+}
+
+.flex-element h4{
+    margin-top:10px;
+}
+
+.featured-img{
+    height: 200px;
+    width: 300px;
+}
+
