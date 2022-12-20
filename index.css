@@ -95,7 +95,6 @@ header{
     align-items: center;
     justify-content: center;
     margin: auto;
-
 }
 
 .location-boxes{
@@ -111,4 +110,14 @@ header{
     /* margin-right:40px; */
     margin-top: 15px;
     opacity: 1;
+}
+
+.contact{
+    height: 200px;
+    margin: 0 auto;
+}
+
+footer{
+    margin-left: 20px;
+    text-align: left;
 }
