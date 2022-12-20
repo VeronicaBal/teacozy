@@ -6,3 +6,15 @@ body{
     opacity: 0.9;
     text-align: center;
 }
+
+.navbar{
+    display: flex;
+    margin-left: 10px;
+    height: 69px;
+}
+
+.logo{
+    height: 50px;
+    justify-self: flex-start;
+    align-self: center;
+}
