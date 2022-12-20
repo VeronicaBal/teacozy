@@ -7,14 +7,33 @@ body{
     text-align: center;
 }
 
-.navbar{
-    display: flex;
-    margin-left: 10px;
+header{
+    display: inline-flex;
+    width: 100%;
     height: 69px;
+    justify-content: space-between;
+}
+
+
+.logo-container{
+    display: flex;
+    justify-self: flex-start;
+    align-self: center;
+    margin-left: 10px;
 }
 
 .logo{
     height: 50px;
-    justify-self: flex-start;
+}
+
+.nav-items-container{
+    display: flex;
+    text-decoration: underline;
+}
+
+.nav-items{
+    text-decoration: underline;
     align-self: center;
+    justify-self: center;
+    padding: 10px;
 }
